@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @HagerKhorboz
-- 👀 I’m interested in Web Development
-- 🌱 I'm recently had my certificate from udacity (FWD) schoolarchip in Web development. 
-- 🌱 I’m currently learning CS50's Web Programming with Python and JavaScript
-- 💞️ I’m looking to collaborate on Web Applications Projects
+- 👀 I’m interested in Software Development. 
+- 🌱 I’m currently refreshing my information about Embedded System.
+- 💞️ I’m looking to collaborate on Embedded Systems Projects
 - 📫 How to reach me hager.khorboz@gmail.com
 
 <!---
